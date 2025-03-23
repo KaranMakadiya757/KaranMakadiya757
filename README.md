@@ -59,9 +59,9 @@
 
 ## **📊 GitHub Stats**  
 
-<div align="center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=KaranMakadiya757&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-  <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=KaranMakadiya757&theme=radical" alt="GitHub Streak" height="180px"/>
+<div align="left">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=KaranMakadiya757&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" height="180px"/>
+  <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=KaranMakadiya757&theme=radical" alt="GitHub Streak" width="49%" height="180px"/>
 </div>
 
 <!--
